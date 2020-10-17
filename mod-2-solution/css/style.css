@@ -16,7 +16,7 @@
     position:absolute;
     right:0;
     top:0;
-    padding:10px 20px;
+    padding:12px 20px;
     margin:0;
   }
   
@@ -35,14 +35,14 @@
   #div-2 span {
     background-color:#e24545;
     border:1.75px solid black;
-    color:white;
+    color:black;
     margin-right: -3px;
     margin-top: -2px;
   }
   
   #div-3 span {
     background-color:#ffdd99;
-    border:1.75px solid black;
+    border:1.75px solid white;
     margin-right: -3px;
     margin-top: -2px;
   }
